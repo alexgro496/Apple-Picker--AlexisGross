@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b678166ca2ae0504991b2a3c14e16b7f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - basketPrefab: {fileID: 6520684188627868708, guid: 17b82d09297ef374d9f10cd9932994a6, type: 3}
+  - restartButtonPrefab: {fileID: 3028028829790844189, guid: c9b87a97b02c8c340aa0bc68a6774f7a, type: 3}
+  - canvasPrefab: {fileID: 2280885929447055081, guid: 267ed395025a968459e54abfb4e02f11, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
